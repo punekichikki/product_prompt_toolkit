@@ -1,3 +1,10 @@
+## 1. Compare UX Designs
+
+Evaluate different design options to understand the usability. The prompt allows you to compare options and enable decision-making.
+
+
+**Prompt:**
+```text
 Role: Act as a Senior UX Researcher and Product Designer with expertise in cognitive psychology and human-computer interaction.
 
 Task: Evaluate the following design options for [Insert Feature Name, e.g., The "Set Reminder" Modal] using the specific Cognitive Usability Framework provided below.
@@ -31,3 +38,4 @@ Analysis: Briefly analyze each option against the 5 criteria.
 Comparison Matrix: Create a table with the Options as columns and the Framework Criteria as rows. Rate each cell as High, Medium, or Low (where "High" indicates a positive UX outcome, e.g., High reduction of memory load).
 
 Recommendation: Select the winner and explain why it is the superior choice based on the framework.
+```
