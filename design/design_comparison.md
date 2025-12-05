@@ -2,7 +2,7 @@
 
 Evaluate different design options to understand the usability. The prompt allows you to compare options and enable decision-making.
 
-Model: Gemini-Pro (Best)
+Model: Gemini-Pro (Best) 
 
 **Prompt:**
 
