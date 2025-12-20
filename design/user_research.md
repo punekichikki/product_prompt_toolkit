@@ -2,7 +2,7 @@
 
 Review internal documentation to extract actionable insights and synthesize information into decision-ready formats. The prompt enables systematic analysis of user evidence, feasibility constraints, and knowledge gaps.
 
-Model: NotebookLM (Best) 
+Tool: NotebookLM (Best) 
 
 **Prompt:**
 
